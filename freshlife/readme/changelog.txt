@@ -1,0 +1,79 @@
+3.0.2 - Oct 28, 2015
+* Updated the main stylesheet
+  style.css & style.min.css
+* Updated TGMPA library, security issue
+  inc/classes/class-tgm-plugin-activation.php
+* Updated all assets ( js, css, fonts, img )
+  assets & inc/scripts.php
+* Updated and Renamed html5shiv.js to html5shiv.min.js
+  assets/js/html5shiv.js
+* Improved main.js
+  assets/js/main.js
+* Code improvement
+  inc/extras.php
+* Improved search from with HTML5 markup
+  searchform.php & menu-primary.php
+* Updated language
+  language/freshlife.pot
+* Updated schema.org markup
+  inc/hybrid/attr.php
+
+2015.09.01 - version 3.0.1
+* Support WordPress 4.3+
+
+2015.05.01 - version 3.0.0
+ * new Theme Options Panel
+ * Mega Menu
+ * Responsive Layout
+ * Post layouts
+ * Archive layouts
+
+2012.06.28 - version 2.0.4
+ * /functions/js/custom_uploader.js - Fixed image upload issue with WP 3.4
+
+2012.05.07 - version 2.0.3
+ * style.css - Fixed a bug for IE 7/8/9
+
+2011.12.15 - version 2.0.2
+ * style.css - CSS code re-indented and bug fixed for single posts in Chrome 16+.
+
+2011.09.18 - version 2.0.1
+ * includes/theme-options.php - Added FeedBurner ID option for newsletter form on single posts
+ * single.php - Fixed FeedBurner ID issue of newsletter form
+
+2011.09.11 - version 2.0
+ * Added new Theme Options Panel
+ * Added Featured Content section
+ * Added Custom Breadcrumbs
+ * Added Related Posts on posts
+ * Added Social Share Icons on posts
+ * Added Newsletter Form on posts
+ * Added Custom Widgets
+ * Added WP Featured Image
+ * Removed TimThumb Image Resizing
+
+2011.08.19 - version 1.0.6
+ * includes/timthumb.php - updated timthumb to the latest version (v2.8)
+
+2011.02.24 - version 1.0.5
+ * includes/theme-options.php - fixed a bug for WP 3.1 compatibility
+
+2010.11.08 - version 1.0.4
+ * functions.php - added multisite support for the thumbnail function
+
+2010.07.08 - version 1.0.3
+ * header.php - changed style of navigation menu
+ * sidebar.php -  changed social icons
+ * includes/theme-options.php - changed social icons settings
+ * style.css - changed style of navigation menu and social icons
+
+2010.06.22 - version 1.0.2
+ * functions.php - added WP3.0 custom menu and custom background support
+ * header.php - added WP3.0 custom menu for dropdown pages/categories menu
+
+2010.06.20 - version 1.0.1
+ * includes/timthumb.php - updated timthumb to the latest version
+
+2010.05.31 - version 1.0
+
+ * First release!

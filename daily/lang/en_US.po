@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daily 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-22 20:09+0830\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roy Guan <roy@theme-junkie.com>\n"
+"Language-Team: Theme Junkie <support@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:5
+msgid "404 Not Found"
+msgstr ""
+
+#: ../404.php:8
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../archive.php:26
+#: ../index.php:19
+#: ../search.php:26
+msgid "Newer Entries"
+msgstr ""
+
+#: ../archive.php:27
+#: ../index.php:20
+#: ../search.php:27
+msgid "Older Entries"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Password protected."
+msgstr ""
+
+#: ../comments.php:22
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:22
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:22
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Logged in"
+msgstr ""
+
+#: ../comments.php:58
+msgid "to post comment"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Logged as"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:71
+#: ../comments.php:76
+msgid "Required"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:86
+msgid "You can use these tags"
+msgstr ""
+
+#: ../footer.php:33
+msgid "All rights reserved"
+msgstr ""
+
+#: ../footer.php:37
+msgid "Proudly designed by"
+msgstr ""
+
+#: ../footer.php:37
+msgid "Theme Junkie"
+msgstr ""
+
+#: ../header.php:31
+msgid "RSS"
+msgstr ""
+
+#: ../header.php:32
+msgid "Email"
+msgstr ""
+
+#: ../header.php:33
+msgid "Follow us"
+msgstr ""
+
+#: ../header.php:34
+msgid "Become a fan"
+msgstr ""
+
+#: ../header.php:85
+msgid "Home"
+msgstr ""
+
+#: ../header.php:93
+#: ../searchform.php:2
+msgid "Search this site..."
+msgstr ""
+
+#: ../index.php:12
+msgid "What's New Here?"
+msgstr ""
+
+#: ../index.php:12
+msgid "Subscribe to RSS feed"
+msgstr ""
+
+#: ../index.php:36
+msgid "Home Content Bar"
+msgstr ""
+
+#: ../page.php:15
+#: ../single.php:24
+#: ../template-fullwidth.php:21
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:13
+msgid "Posted by"
+msgstr ""
+
+#: ../single.php:14
+msgid "on "
+msgstr ""
+
+#: ../single.php:15
+msgid "Edit"
+msgstr ""
+
+#: ../single.php:28
+msgid "Filed in: "
+msgstr ""
+
+#: ../single.php:29
+msgid "<span id=\"entry-tags\"><strong>Tags:</strong>&nbsp;"
+msgstr ""
+
+#: ../single.php:45
+msgid "About"
+msgstr ""
+
+#: ../single.php:48
+msgid "View all posts by "
+msgstr ""
+
+#: ../single.php:59
+msgid "Get Updates"
+msgstr ""
+
+#: ../single.php:61
+msgid "Subscribe to our e-mail newsletter to receive updates."
+msgstr ""
+
+#: ../single.php:77
+msgid "Share This Post"
+msgstr ""
+
+#: ../single.php:79
+msgid "Tweet"
+msgstr ""
+
+#: ../template-archives.php:37
+msgid "Categories"
+msgstr ""
+
+#: ../template-archives.php:43
+msgid "Monthly Archive"
+msgstr ""
+
+#: ../includes/custom-functions.php:7
+msgid "Primary Nav"
+msgstr ""
+
+#: ../includes/custom-functions.php:8
+msgid "Secondary Nav"
+msgstr ""
+
+#: ../includes/sidebar-init.php:8
+msgid "Sidebar - Full Width"
+msgstr ""
+
+#: ../includes/sidebar-init.php:10
+msgid "Full Width Sidebar"
+msgstr ""
+
+#: ../includes/sidebar-init.php:30
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../includes/sidebar-init.php:32
+#: ../includes/sidebar-init.php:43
+#: ../includes/sidebar-init.php:54
+#: ../includes/sidebar-init.php:65
+msgid "The bottom widget area"
+msgstr ""
+
+#: ../includes/sidebar-init.php:41
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../includes/sidebar-init.php:52
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../includes/sidebar-init.php:63
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: ../includes/templates/breadcrumbs.php:6
+msgid "Posts Tagged &quot;"
+msgstr ""
+
+#: ../includes/templates/breadcrumbs.php:8
+#: ../includes/templates/breadcrumbs.php:10
+#: ../includes/templates/breadcrumbs.php:12
+msgid "Posts made in"
+msgstr ""
+
+#: ../includes/templates/breadcrumbs.php:14
+msgid "Search results for"
+msgstr ""
+
+#: ../includes/templates/breadcrumbs.php:26
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/templates/headline.php:3
+msgid "Change Layout"
+msgstr ""
+
+#: ../includes/templates/headline.php:3
+msgid "List/Grid"
+msgstr ""
+
+#: ../includes/templates/headline.php:5
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/templates/headline.php:7
+#, php-format
+msgid "Subscribe RSS feed of %s"
+msgstr ""
+
+#: ../includes/templates/headline.php:7
+#, php-format
+msgid "Subscribe RSS feed of category %s"
+msgstr ""
+
+#: ../includes/templates/headline.php:10
+#, php-format
+msgid "Tag Archives: <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:13
+#, php-format
+msgid "Search for <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:16
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:19
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:22
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:26
+#, php-format
+msgid "Author Archives: <span>%s</span>"
+msgstr ""
+
+#: ../includes/templates/headline.php:29
+#, php-format
+msgid "Archive: <span>Page %s</span>"
+msgstr ""
+
+#: ../includes/templates/home-featured.php:28
+#: ../includes/templates/loop.php:10
+msgid "0 Comment"
+msgstr ""
+
+#: ../includes/templates/home-featured.php:28
+#: ../includes/templates/loop.php:10
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/templates/home-featured.php:28
+#: ../includes/templates/loop.php:10
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/templates/home-featured.php:33
+msgid "Read more &raquo;"
+msgstr ""
+
+#: ../includes/templates/loop.php:8
+msgid "Posted on"
+msgstr ""
+
+#: ../includes/templates/not-found.php:3
+msgid "Apologies, but no results were found for the requested Archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:10
+msgid "ThemeJunkie - Advertisement"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:53
+msgid "Title (optional):"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:57
+msgid "Ad Code:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:62
+msgid "Image Url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:66
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:70
+msgid "Alt text:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:9
+msgid "ThemeJunkie - AuthorInfo"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:53
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:57
+msgid "Bio:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:61
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:65
+msgid "Gravatar Size:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:69
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:71
+msgid "Left"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:72
+msgid "Right"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:76
+msgid "Read More Text (optional):"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:80
+msgid "Read More URL (optional):"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:84
+msgid "Visible Pages:"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:86
+msgid "All"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:87
+msgid "Home only"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:88
+msgid "Single only"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:10
+msgid "ThemeJunkie - Flickr"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:23
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:46
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:50
+msgid "Number:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:58
+msgid "Type:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:60
+msgid "User"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:61
+msgid "Group"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:65
+msgid "Sorting:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:67
+#: ../includes/widgets/widget-tabs.php:33
+msgid "Latest"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:68
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:72
+msgid "Size:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:74
+msgid "Square"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:75
+msgid "Medium"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:76
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:9
+msgid "Display an Ajax tabber with Popular Posts, Latest Posts and Recent Comments."
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:11
+msgid "ThemeJunkie - Tabs"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:25
+msgid "Popular"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:40
+msgid "Comments"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:66
+msgid "Number of popular posts to show::"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:69
+msgid "Number of latest posts to show:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:71
+msgid "Number of recent comments to show:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabs.php:73
+msgid "Avatar & Thumbnail size(width=height), e.g. 48"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:9
+msgid "ThemeJunkie - Twitter Stream"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:45
+msgid "Username:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:49
+msgid "Limit:"
+msgstr ""
+

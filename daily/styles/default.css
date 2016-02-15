@@ -1,0 +1,33 @@
+a, 
+a:hover, 
+#site-title a, 
+.entry-title a, 
+.entry-title a:hover, 
+.topnav li a:hover, 
+.topnav li a:active, 
+.topnav li ul li a:hover, 
+.top-social li a:hover, 
+.nav li ul li a:hover, 
+#tab-sidebar #recent-comments a:hover span.comment-author, 
+.widget_tag_cloud a:hover { 
+	color: #326693; 
+}
+
+.nav li a, 
+.tab-widget-menu, 
+.tab-widget-menu li { 
+	border-bottom: 3px solid #326693;
+}
+
+.nav li a:hover, 
+.nav li a:active, 
+.nav li.first a { 
+	color: #326693; 
+	border-bottom: 3px solid #A3bb43; 
+}
+		
+.nav li.current-cat a, 
+.nav li.current-cat-parent a, 
+.tab-widget-menu li.selected { 
+	border-bottom: 3px solid #A3bb43; 
+}

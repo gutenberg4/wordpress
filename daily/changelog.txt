@@ -1,0 +1,23 @@
+***Daily Changelog***
+
+2012.07.22 - version 2.0
+ * Added new Theme Options Panel
+ * Added Social Share Icons on posts
+ * Added Newsletter Form on posts
+ * Added Custom Widgets
+ * Added Enable/Disable Content Bar
+ * Added WP Featured Image
+ * Removed TimThumb Image Resizing
+
+2011.08.19 - version 1.0.3 
+ * timthumb.php - updated timthumb to the latest version (v2.8)
+
+2011.02.24 - version 1.0.2 
+ * functions/theme-options.php - fixed a bug for WP 3.1 compatibility
+
+2010.12.24 - version 1.0.1 
+ * js/global.js - Fixed a bug of javascript conflicts
+ * functions.php - Changed the max number to display pagination
+ 
+2010.12.23 - version 1.0
+ * First release!
